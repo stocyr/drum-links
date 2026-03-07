@@ -1,3 +1,4 @@
 theme: jekyll-theme-minima
 title: Drum Unterricht
 description: Links und weitere Ressourcen für den Drum Unterricht
+show_excerpts: false

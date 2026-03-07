@@ -1,2 +1,3 @@
 # drums.github.io
-Website with drum school resources
+
+Website with drum school resources.
