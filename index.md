@@ -2,9 +2,9 @@
 layout: home
 ---
 
-# Links
+## Links
 
-## Links 2025
+### Links 2025
 
 **Februar 2025**
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=8&Tempo=85&Measures=1&H=|XxXxXxXx|&S=|--O---O-|&K=|o--o-o--|">Ohne Name</a>
@@ -29,7 +29,9 @@ layout: home
 **Oktober 2025**
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=35&Measures=1&MetronomeFreq=16&H=|X-X-X-X-X-X-X-X-|&S=|----O-------O---|&K=|o--o----o--o----|&Stickings=|----------------|">Beat 79</a>
 
-## Links 2026
+---
+
+### Links 2026
 
 **Februar 2026**
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=60&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----o-------o---|&K=|o------oo-------|">fast Beat 138</a>
