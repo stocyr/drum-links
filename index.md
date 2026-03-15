@@ -38,3 +38,4 @@ layout: home
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=75&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|---O--------O---|&K=|o-----o-o-------|">Beat 140</a>
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=75&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O----O--O---|&K=|o-----o---------|">Beat 2000</a>
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=75&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O----O--O---|&K=|o--o--o---o---o-|">Beat 2001</a>
+- <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=90&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|------O-----O---|&K=|o-o--o----o-----|">Beat 2002</a>
