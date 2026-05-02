@@ -46,3 +46,7 @@ layout: home
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=82&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|o-----o--oo-----|">Beat 2005 (doppel-Kick)</a>
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=82&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|o-----oo--o-----|">Beat 2006 (doppel-Kick)</a>
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=94&Measures=1&H=|x-x-x-x-x-x-x-o-|&S=|----O--O-O--O---|&K=|o-o-------o--o--|">Melanie - TOTO</a> (<a href="https://open.spotify.com/track/0rLdenUXmfckiHTjF7gzaC">Song</a>)
+
+**Mai 2026**
+- <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=83&Swing=25&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O--O-O--O--O|&K=|o-o-------o-----|">Baby He's Your Man - TOTO</a> (<a href="https://open.spotify.com/intl-de/track/5w2PPpREIfphI1XayqcxqH">Song</a>)
+- <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=75&Swing=30&Measures=1&H=|x-x-x-x-x-o-x-x-|&S=|----O-------O---|&K=|o--o----o-o-----|">Skyfall</a>
