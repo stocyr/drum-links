@@ -50,3 +50,7 @@ layout: home
 **Mai 2026**
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=83&Swing=25&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O--O-O--O--O|&K=|o-o-------o-----|">Baby He's Your Man - TOTO</a> (<a href="https://open.spotify.com/intl-de/track/5w2PPpREIfphI1XayqcxqH">Song</a>)
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=75&Swing=30&Measures=1&H=|x-x-x-x-x-o-x-x-|&S=|----O-------O---|&K=|o--o----o-o-----|">Skyfall</a>
+
+**Juni 2026**
+- <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=8&Tempo=90&Measures=1&H=|xoxxxxxx|&S=|--O---O-|&K=|o---o---|">Beat 2007 (Offenes Hi-Hat)</a>
+- <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=8&Tempo=82&Measures=1&H=|xxxoxxxx|&S=|--O---O-|&K=|o--oo---|">Beat 2008 (Offenes Hi-Hat)</a>
