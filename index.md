@@ -54,3 +54,6 @@ layout: home
 **Juni 2026**
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=8&Tempo=90&Measures=1&H=|xoxxxxxx|&S=|--O---O-|&K=|o---o---|">Beat 2007 (Offenes Hi-Hat)</a>
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=8&Tempo=82&Measures=1&H=|xxxoxxxx|&S=|--O---O-|&K=|o--oo---|">Beat 2008 (Offenes Hi-Hat)</a>
+- <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=8&Tempo=105&Measures=1&H=|xxxoxxxx|&S=|--O---O-|&K=|o--o-o--|">Beat 2009 (Offenes Hi-Hat)</a>
+- <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=8&Tempo=84&Measures=1&H=|-x-x-x-x|&S=|--O---O-|&K=|o---o---|">Smooth Move - Cory Wong</a> (<a href="https://open.spotify.com/track/6MKqe1Q1xqQEkfF0RCIyDU?si=68683467a6be4465">Song</a>), oder auch <a href="https://open.spotify.com/track/5j0gNdp2n3QsMxZqWd9QJj?si=703fb0e7791247b1">The Boardwalk - Cory Wong</a>
+- <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=122&Measures=1&H=|--x----x--x-----|&S=|----O-------O---|&K=|o-------o-------|">Design - Cory Wong</a> (<a href="https://open.spotify.com/track/30epYv2blz9dv2nPBeWr1f?si=9dbd5514debb4d4c">Song</a>)
