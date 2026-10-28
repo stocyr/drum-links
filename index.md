@@ -60,3 +60,8 @@ layout: home
 
 **September 2026**
 - <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=140&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|----O-------O---|&K=|o-------o--o--o-|">Beat 2011 von "Je-Je-Jesus isch grösser"</a>
+
+**Oktober 2026**
+- <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=64&Measures=2&MetronomeFreq=8&H=|----------------|----------------|&S=|---------------b|OO--OO--O---f---|&K=|----------------|---o---o---o----|&T1=|----------------|---------o------|&T4=|----------------|----------o-----|">Fill-in von <i>Awake</i> (ASIA)</a>
+- <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=101&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|-g--O--g-g--O--g|&K=|o-------o-------|&T1=|----------------|&T4=|----------------|">Beat 151e</a>
+- <a href="https://www.mikeslessons.com/groove/?TimeSig=4/4&Div=16&Tempo=101&Measures=1&H=|x-x-x-x-x-x-x-x-|&S=|-g--O--g----O---|&K=|o--o-----oo-----|&T1=|----------------|&T4=|----------------|">Beat 151g</a>
